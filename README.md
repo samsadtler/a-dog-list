@@ -1,2 +1,9 @@
 # a-dog-list
-Created with CodeSandbox
+
+### getting started
+
+`npm install`
+
+### getting up-and-running
+
+`npm start`
